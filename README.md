@@ -1,5 +1,4 @@
-# InnoInternRepo
-README.md
+
 Welcome to the Innobrain Technologies Internship Program!
 Dear Interns,
 
